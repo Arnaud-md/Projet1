@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+
+</head>
+
+<body>
+    <h1> THOMAS LAFORGE </h1>
+    <p> Développeur Web Full-stack JS Et formateur en développement informatique (Licence et Master) </p>
+
+    <h2> PROFIL PERSONNEL </h2>
+    <p> Je suis un développeur professionnel et motivé, doté de
+        nombreuses années d'expérience dans la création
+        d'applications et services web. Je me spécialise dans
+        l'environnement Javascript, me permettant de réaliser tous
+        types de projets, allant d'une application web à une
+        application mobile, en passant par des applications Mac /
+        Windows ou même de l'électronique / IOT.
+        Je suis très curieux et pratique une veille technologique très
+        fréquente. Tout me passionne et j'aime apprendre en continu.
+    </p>
+
+    <h2> ME CONTACTER </h2>
+    <p> 30 rue Sisteron, 38170 SEYSSINET-PARISET
+        E-mail : thomas.laforge.38@gmail.com
+        LinkedIn : @thomas-laforge-b5936374
+        Téléphone : 06 72 13 87 17
+        GitHub: ThomasLaforge
+        Malt: thomaslaforge1
+    </p>
+    
+    <h2> PASSIONS </h2>
+    <p> Sport : Triathlon, squash, badminton, marathon, trail, etc...
+        Adaptation de jeux de société en application web
+        Electronique et projets IOT (arduino, raspberry)
+        Sport automobile : karting et simulateur
+        Impression 3D, dessin 3D
+        Jeux de sociétés
+    </p> 
+
+
+
+    <h2> EXPERIENCE PROFESSIONNELLE </h2>
+    <h3> AUTO ENTREPRENEUR CAPTEUR HIC </h3>
+    <p> <strong> Normenjeu, 2019 - 2021 </strong>
+    <p> Reprise de projet - Gestion de projet
+        <li> analyse de l'existant et architecture globale </li>
+        <li> gestion des codes sources et documentation de la propriété intellectuelle </li>
+        <p> Outils : Git, Gitlab, Milestones, Issues, Gant, Markdown </p>
+        DIagnostique et débogage du firmware (tête HIC)
+        Outils : Arduino, C++, bluetooth, électronique
+        Firmware Raspberry (largueur)
+        <li> communication avec la tête HIC </li>
+        <li> contrôle électronique (lidar, écran, led, boutons, alarme) </li>
+        <li> Système de mise à jour du système par container Docker </li>
+        Outils : Raspberry, Typescript, Node, GPIO, UART, I2C, Docker, docker-compose, bluetooth LE,
+        WebSocket, Bash Linux, Python
+        Reprise et modification de l'application de contrôle
+        Outils : React, Typescript, Node, Hapi, Sass, i18n, WebSocket
+        API micro services et application back-office
+        Outils: Micro services, TypeORM, express, API gateway, Postman, ReactAdmin, Docker,
+        Kubernetes, GCP
+        <h3>CDI – DÉVELOPPEMENT D’UN NEZ ÉLECTRONIQUE</h3>
+        Aryballe Technologies, 2015 - 2019
+        Prototypage d’un nez électronique (Neose)
+        <li>Firmware sur base de Raspberry Pi</li>
+        <li>serveur web : interaction à partir d’une page web avec l’ensemble des composants du nez
+            électronique </li>
+        <li>Base de données / API pour le stockage des enregistrements</li>
+        Outils : Php, SQL, Python, C, Bash, Linux
+        Algorithmes de traitement des données et représentations graphiques adaptées
+        Outils : Réseaux de neurones, deep learning, classifieurs, ACP, MDS
+        Application desktop de gestion du nez
+        Outils : Electron, JavaScript, TypeScript, ReactJs
+        Transfert d’API et interface d'administration
+        Outils : FeathersJS, React Admin, base de données SQL
+        <h3>ALTERNANCE - MIGRATION D’UN MIDDLEWARE EN VB.NET</h3>
+        eNovAlp, 2013 - 2014
+        <h3>STAGE – APPLICATION DE GESTION D’EMPRUNT EN PHP</h3>
+        ESRF, 2013
+
+        <h2>FORMATION UNIVERSITAIRE </h2>
+        LICENCE PROFESSIONNELLE SYSTÈMES INFORMATIQUES ET LOGICIELS OPTION
+        SYSTÈMES D'INFORMATION, MÉTHODES ET OUTILS
+        2013 – 2014 Université Pierre Mendès France – Grenoble
+        DUT INFORMATIQUE EN ANNÉE SPÉCIALE
+        2012 – 2013 Université Pierre Mendès France – Grenoble
+        DUT STATISTIQUE ET INFORMATIQUE DÉCISIONNELLE
+        2010 – 2012 Université Pierre Mendès France – Grenoble
+
+        <h2>COMPÉTENCES ET SAVOIR-FAIRE</h2>
+        Langages : Typescript (++), JS, Php, C#, C
+        Front : Sass, React, Vue, HTML5, CSS, Nextjs, Electron, ReactNative
+        Back : Node, Deno, Express, Hapi, Sqlite, MariaDB, Postgre, SQL, REST API, graphql
+        Gestion projet : Git, GitHub, Gitlab, Gantt, Trello, Markdown
+        Devops : GCP, Vercel, Heroku, Firebase, Micro services, API Gateway, Docker
+
+
+</body>
+
+</html>
