@@ -1,7 +1,7 @@
-< DOCTYPE html>
-< html lang="fr">
+<!DOCTYPE html>
+<html lang="fr">
 
-< head>
+<head>
 
 <style>
     #title {
@@ -10,34 +10,35 @@
     #subtitle {
         font-style: italic;
     }
+    #photos {
+        align-items: center;
+    }
     #photo {
         width : 50%;
         height: 50%;
-        align: center;
         cursor: pointer;
     }
     #photo_little {
         width : 30%;
         height: 30%;
-        align: center;
         cursor: pointer;
     }
     #roller {
         font-weight: bold;
     }
-    .v-line{
-        border-left: thick solid #7e7e7e;
-        height:100%;
-        left: 50%;
-        position: absolute;
-        border-style : dashed;
-        border: 3px;
+   ul {
+        border: green solid;
     }
-    #encadre {
-        style="border: 1px solid green; padding: 10px;"
-    }
-    #liste2 {
+    ol {
         color: #DB7093;
+        border-left: thick dashed #7e7e7e;
+        padding-bottom: 40px;
+    }
+    #listes {
+        display:flex;
+    }
+    strong {
+        font-weight: bold;
     }
 </style>
 
@@ -49,6 +50,7 @@
 
 <h2 id="subtitle"> Le roller est un sport de glisse qui se pratique avec des patins à roulettes.</h2>
 
+<div id="photos">
 <img
 id="photo"
 src="https://cdn.webshopapp.com/shops/294109/files/316224057/image.jpg"
@@ -61,21 +63,31 @@ src="https://cdn.webshopapp.com/shops/294109/files/316224057/image.jpg"
 alt="roller_quad_little"
 >
 </img>
+</div>
 
-<h2> Qu'est-ce que le <div id="roller">roller</div> ?</h2>
 
-<h2> Les différents types de roller</h2>
 
-<ul id="encadre">
-    <li> Le roller est un sport de glisse qui se pratique avec des patins à roulettes.</li>
-    <li> Le roller c'est cool.</li>
-    <li> Le roller c'est dangereux.</li>
-</ul>
+
+
+  
+<div id="listes">
+    <ul id="encadre">
+        <p> Qu'est-ce que le <strong>roller</strong> ?</p>
+        <li> Le roller est un sport de glisse qui se pratique avec des patins à roulettes.</li>
+        <li> Le roller c'est cool.</li>
+        <li> Le roller c'est dangereux.</li>
+    </ul>
+
 
 <div class="v-line">
 </div>
 
-<ul id="liste2">
+<div>
+
+
+
+<ol>
+    <p> Les différents types de roller</p>
     <li> Le roller de vitesse</li>
     <li> Le roller de descente</li>
     <li> Le roller de freestyle</li>
@@ -84,9 +96,12 @@ alt="roller_quad_little"
     <li> Le roller de slalom</li>
     <li> Le roller de street</li>
     <li> Le roller de course</li>
-</ul>
+</ol>
+
+</div>
+
+</div>
 
 </body>
 
 </html>
-</DOCTYPE>
