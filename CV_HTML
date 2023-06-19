@@ -7,7 +7,8 @@
 
 <body>
     <h1> THOMAS LAFORGE </h1>
-    <p> Développeur Web Full-stack JS Et formateur en développement informatique (Licence et Master) </p>
+    <p> Développeur Web Full-stack JS Et formateur en développement informatique (Licence et Master)
+    </p>
 
     <h2> PROFIL PERSONNEL </h2>
     <p> Je suis un développeur professionnel et motivé, doté de
@@ -44,58 +45,65 @@
     <h2> EXPERIENCE PROFESSIONNELLE </h2>
     <h3> AUTO ENTREPRENEUR CAPTEUR HIC </h3>
     <p> <strong> Normenjeu, 2019 - 2021 </strong>
-    <p> Reprise de projet - Gestion de projet
-        <li> analyse de l'existant et architecture globale </li>
-        <li> gestion des codes sources et documentation de la propriété intellectuelle </li>
-        <p> Outils : Git, Gitlab, Milestones, Issues, Gant, Markdown </p>
-        DIagnostique et débogage du firmware (tête HIC)
+    <strong> Reprise de projet - Gestion de projet </strong>
+        <ul>
+            <li> analyse de l'existant et architecture globale </li>
+            <li> gestion des codes sources et documentation de la propriété intellectuelle </li>
+        </ul>
+        Outils : Git, Gitlab, Milestones, Issues, Gant, Markdown </p>
+    <strong>DIagnostique et débogage du firmware (tête HIC)</strong>
         Outils : Arduino, C++, bluetooth, électronique
-        Firmware Raspberry (largueur)
-        <li> communication avec la tête HIC </li>
-        <li> contrôle électronique (lidar, écran, led, boutons, alarme) </li>
-        <li> Système de mise à jour du système par container Docker </li>
-        Outils : Raspberry, Typescript, Node, GPIO, UART, I2C, Docker, docker-compose, bluetooth LE,
+    <strong>Firmware Raspberry (largueur)</strong>
+        <ul>
+            <li> communication avec la tête HIC </li>
+            <li> contrôle électronique (lidar, écran, led, boutons, alarme) </li>
+            <li> Système de mise à jour du système par container Docker </li>
+        </ul>
+            Outils : Raspberry, Typescript, Node, GPIO, UART, I2C, Docker, docker-compose, bluetooth LE,
         WebSocket, Bash Linux, Python
-        Reprise et modification de l'application de contrôle
+    <strong>Reprise et modification de l'application de contrôle</strong>
         Outils : React, Typescript, Node, Hapi, Sass, i18n, WebSocket
-        API micro services et application back-office
+    <strong>API micro services et application back-office</strong>
         Outils: Micro services, TypeORM, express, API gateway, Postman, ReactAdmin, Docker,
-        Kubernetes, GCP
-        <h3>CDI – DÉVELOPPEMENT D’UN NEZ ÉLECTRONIQUE</h3>
-        Aryballe Technologies, 2015 - 2019
-        Prototypage d’un nez électronique (Neose)
-        <li>Firmware sur base de Raspberry Pi</li>
-        <li>serveur web : interaction à partir d’une page web avec l’ensemble des composants du nez
-            électronique </li>
-        <li>Base de données / API pour le stockage des enregistrements</li>
+        Kubernetes, GCP</p>
+    <h3>CDI – DÉVELOPPEMENT D’UN NEZ ÉLECTRONIQUE</h3>
+    <p><strong>Aryballe Technologies, 2015 - 2019</strong>
+    <strong>Prototypage d’un nez électronique (Neose)</strong>
+        <ul>
+            <li>Firmware sur base de Raspberry Pi</li>
+            <li>serveur web : interaction à partir d’une page web avec l’ensemble des composants du nez
+                électronique </li>
+            <li>Base de données / API pour le stockage des enregistrements</li>
         Outils : Php, SQL, Python, C, Bash, Linux
-        Algorithmes de traitement des données et représentations graphiques adaptées
+    <strong> Algorithmes de traitement des données et représentations graphiques adaptées</strong>
         Outils : Réseaux de neurones, deep learning, classifieurs, ACP, MDS
-        Application desktop de gestion du nez
+    <strong> Application desktop de gestion du nez</strong>
         Outils : Electron, JavaScript, TypeScript, ReactJs
-        Transfert d’API et interface d'administration
+    <strong> Transfert d’API et interface d'administration</strong>
         Outils : FeathersJS, React Admin, base de données SQL
+            </p>
         <h3>ALTERNANCE - MIGRATION D’UN MIDDLEWARE EN VB.NET</h3>
-        eNovAlp, 2013 - 2014
+        <p>eNovAlp, 2013 - 2014</p>
         <h3>STAGE – APPLICATION DE GESTION D’EMPRUNT EN PHP</h3>
-        ESRF, 2013
+        <p>ESRF, 2013</p>
 
         <h2>FORMATION UNIVERSITAIRE </h2>
-        LICENCE PROFESSIONNELLE SYSTÈMES INFORMATIQUES ET LOGICIELS OPTION
-        SYSTÈMES D'INFORMATION, MÉTHODES ET OUTILS
+        <p><strong>LICENCE PROFESSIONNELLE SYSTÈMES INFORMATIQUES ET LOGICIELS OPTION
+        SYSTÈMES D'INFORMATION, MÉTHODES ET OUTILS</strong>
         2013 – 2014 Université Pierre Mendès France – Grenoble
-        DUT INFORMATIQUE EN ANNÉE SPÉCIALE
+        <strong>DUT INFORMATIQUE EN ANNÉE SPÉCIALE</strong>
         2012 – 2013 Université Pierre Mendès France – Grenoble
-        DUT STATISTIQUE ET INFORMATIQUE DÉCISIONNELLE
+        <strong>DUT STATISTIQUE ET INFORMATIQUE DÉCISIONNELLE</strong>
         2010 – 2012 Université Pierre Mendès France – Grenoble
+        </p>
 
         <h2>COMPÉTENCES ET SAVOIR-FAIRE</h2>
-        Langages : Typescript (++), JS, Php, C#, C
-        Front : Sass, React, Vue, HTML5, CSS, Nextjs, Electron, ReactNative
-        Back : Node, Deno, Express, Hapi, Sqlite, MariaDB, Postgre, SQL, REST API, graphql
-        Gestion projet : Git, GitHub, Gitlab, Gantt, Trello, Markdown
-        Devops : GCP, Vercel, Heroku, Firebase, Micro services, API Gateway, Docker
-
+        <p><strong>Langages :</strong> Typescript (++), JS, Php, C#, C
+        <strong>Front :</strong> Sass, React, Vue, HTML5, CSS, Nextjs, Electron, ReactNative
+        <strong>Back :</strong> Node, Deno, Express, Hapi, Sqlite, MariaDB, Postgre, SQL, REST API, graphql
+        <strong>Gestion projet :</strong> Git, GitHub, Gitlab, Gantt, Trello, Markdown
+        <strong> Devops :</strong> GCP, Vercel, Heroku, Firebase, Micro services, API Gateway, Docker
+        </p>
 
 </body>
 
