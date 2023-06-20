@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(40, 69, 131);
+  }
+  h1 {
+    color: rgb(252, 252, 252);
+  }
+  h2 {
+    color : white;
+  }
+  h3 {
+    color : grey;
+  }
+  #blank {
+    color : white;
+  }
+  #grey {
+    color : grey;
+  }
+  #grey_color {
+    color : grey;
+  }
