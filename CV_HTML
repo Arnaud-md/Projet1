@@ -2,16 +2,20 @@
 <html lang="fr">
 
 <head>
-
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
+
+<div id="col">
+<div>
     <h1> THOMAS LAFORGE </h1>
-    <p> Développeur Web Full-stack JS Et formateur en développement informatique (Licence et Master)
+    <p id="blank"> Développeur Web Full-stack JS Et formateur en développement informatique (Licence et Master)
     </p>
 
     <h2> PROFIL PERSONNEL </h2>
-    <p> Je suis un développeur professionnel et motivé, doté de
+    <p id="blank"> Je suis un développeur professionnel et motivé, doté de
         nombreuses années d'expérience dans la création
         d'applications et services web. Je me spécialise dans
         l'environnement Javascript, me permettant de réaliser tous
@@ -23,7 +27,7 @@
     </p>
 
     <h2> ME CONTACTER </h2>
-    <p> 30 rue Sisteron, 38170 SEYSSINET-PARISET
+    <p id="blank"> 30 rue Sisteron, 38170 SEYSSINET-PARISET
         E-mail : thomas.laforge.38@gmail.com
         LinkedIn : @thomas-laforge-b5936374
         Téléphone : 06 72 13 87 17
@@ -32,7 +36,7 @@
     </p>
     
     <h2> PASSIONS </h2>
-    <p> Sport : Triathlon, squash, badminton, marathon, trail, etc...
+    <p id="blank"> Sport : Triathlon, squash, badminton, marathon, trail, etc...
         Adaptation de jeux de société en application web
         Electronique et projets IOT (arduino, raspberry)
         Sport automobile : karting et simulateur
@@ -44,16 +48,18 @@
 
     <h2> EXPERIENCE PROFESSIONNELLE </h2>
     <h3> AUTO ENTREPRENEUR CAPTEUR HIC </h3>
-    <p> <strong> Normenjeu, 2019 - 2021 </strong>
+    <p id="grey"> <strong> Normenjeu, 2019 - 2021 </strong>
     <strong> Reprise de projet - Gestion de projet </strong>
-        <ul>
+    </p>
+        <ul id="grey_color">
             <li> analyse de l'existant et architecture globale </li>
             <li> gestion des codes sources et documentation de la propriété intellectuelle </li>
         </ul>
-        Outils : Git, Gitlab, Milestones, Issues, Gant, Markdown </p>
+        <p id="grey">Outils : Git, Gitlab, Milestones, Issues, Gant, Markdown </p>
     <strong>DIagnostique et débogage du firmware (tête HIC)</strong>
         Outils : Arduino, C++, bluetooth, électronique
     <strong>Firmware Raspberry (largueur)</strong>
+    </p>
         <ul>
             <li> communication avec la tête HIC </li>
             <li> contrôle électronique (lidar, écran, led, boutons, alarme) </li>
@@ -67,7 +73,7 @@
         Outils: Micro services, TypeORM, express, API gateway, Postman, ReactAdmin, Docker,
         Kubernetes, GCP</p>
     <h3>CDI – DÉVELOPPEMENT D’UN NEZ ÉLECTRONIQUE</h3>
-    <p><strong>Aryballe Technologies, 2015 - 2019</strong>
+    <p id="grey"><strong>Aryballe Technologies, 2015 - 2019</strong>
     <strong>Prototypage d’un nez électronique (Neose)</strong>
         <ul>
             <li>Firmware sur base de Raspberry Pi</li>
@@ -83,12 +89,12 @@
         Outils : FeathersJS, React Admin, base de données SQL
             </p>
         <h3>ALTERNANCE - MIGRATION D’UN MIDDLEWARE EN VB.NET</h3>
-        <p>eNovAlp, 2013 - 2014</p>
+        <p id="grey">eNovAlp, 2013 - 2014</p>
         <h3>STAGE – APPLICATION DE GESTION D’EMPRUNT EN PHP</h3>
-        <p>ESRF, 2013</p>
+        <p id="grey">ESRF, 2013</p>
 
         <h2>FORMATION UNIVERSITAIRE </h2>
-        <p><strong>LICENCE PROFESSIONNELLE SYSTÈMES INFORMATIQUES ET LOGICIELS OPTION
+        <p id="grey"><strong>LICENCE PROFESSIONNELLE SYSTÈMES INFORMATIQUES ET LOGICIELS OPTION
         SYSTÈMES D'INFORMATION, MÉTHODES ET OUTILS</strong>
         2013 – 2014 Université Pierre Mendès France – Grenoble
         <strong>DUT INFORMATIQUE EN ANNÉE SPÉCIALE</strong>
@@ -98,7 +104,7 @@
         </p>
 
         <h2>COMPÉTENCES ET SAVOIR-FAIRE</h2>
-        <p><strong>Langages :</strong> Typescript (++), JS, Php, C#, C
+        <p id="grey"><strong>Langages :</strong> Typescript (++), JS, Php, C#, C
         <strong>Front :</strong> Sass, React, Vue, HTML5, CSS, Nextjs, Electron, ReactNative
         <strong>Back :</strong> Node, Deno, Express, Hapi, Sqlite, MariaDB, Postgre, SQL, REST API, graphql
         <strong>Gestion projet :</strong> Git, GitHub, Gitlab, Gantt, Trello, Markdown
