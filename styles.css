@@ -1,21 +1,60 @@
 body {
-    background-color: rgb(40, 69, 131);
+    background-color: rgb(74, 74, 75);
+    width: 80%;
+    margin:auto;
+  }
+  #margin {
+    width: 40%;
+    background-color: rgb(40,69,131);
+  }
+  #background_color {
+    background-color: white;
+    width: 60%;
+  }
+  #margin_right {
+    margin-right: 5%;
+  }
+  #margin_left {
+    margin-left: 5%;
+  }
+  #line {
+    border-bottom: 3px solid white;
+    margin-left: 50%;
+    margin-right: 10%;
   }
   h1 {
-    color: rgb(252, 252, 252);
+    color: white;
+    font-size: xx-large;
+    text-align:right;
   }
   h2 {
     color : white;
+    text-align:right;
   }
   h3 {
     color : grey;
+  }
+  p {
+    text-align: right;
+  }
+  #title_blue {
+    color : rgb(40,69,131);
+    text-align: left;
+    margin-top: 50px;
   }
   #blank {
     color : white;
   }
   #grey {
     color : grey;
+    text-align: left;
   }
   #grey_color {
     color : grey;
+    text-align: left;
+  }
+  #col {
+    display: flex;
+    text-decoration: row;
+    margin: 0%;
   }
